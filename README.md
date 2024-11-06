@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandenmkeller. I'm a Senior UX Designer.
 - 👀 I’m interested in UX/UI design & front-end development.
-- 🌱 I’m currently learning Javascript for complex UI prototyping and front-end development.
+- 🌱 I’m currently learning Javascript & React to create Design Systems and do complex UI prototyping.
 - 📫 How to reach me brandenmkeller@gmail.com
 
 <!---
